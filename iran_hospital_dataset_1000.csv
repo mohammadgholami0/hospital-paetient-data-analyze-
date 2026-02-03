@@ -1,0 +1,1001 @@
+﻿patient_id,first_name,last_name,national_id,gender,age,city,province,visit_reason,department
+5001,Fatemeh,Rezai,8967067461,Female,39,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5002,Mehdi,Karimi,1445226911,Male,71,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5003,Ali,Ghasemi,0482421606,Male,45,Shiraz,Fars,Acute Appendicitis,General Surgery
+5004,Zahra,Rezai,6332510137,Female,30,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5005,Mohammad,Moradi,1409476901,Male,56,Tehran,Tehran,Acute Appendicitis,General Surgery
+5006,Farhad,Rezai,6311473763,Male,27,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5007,Fatemeh,Ghasemi,1685626122,Female,8,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5008,Farhad,Hosseini,9291288039,Male,51,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5009,Mehdi,Ahmadi,6146748706,Male,23,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5010,Amir,Hosseini,5990471610,Male,37,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5011,Sara,Hashemi,1497974119,Female,15,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5012,Ali,Hashemi,1729240879,Male,81,Isfahan,Isfahan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5013,Mehdi,Moradi,9148335029,Male,51,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5014,Maryam,Rezai,7057459890,Female,21,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5015,Farhad,Hosseini,8232484391,Male,36,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5016,Elnaz,Karimi,5320327986,Female,23,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5017,Sepideh,Karimi,8204523475,Female,87,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5018,Reza,Moradi,8529214021,Male,72,Tehran,Tehran,Rhinoplasty (Elective),ENT / Plastic Surgery
+5019,Mina,Hashemi,4044954046,Female,87,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5020,Sepideh,Moradi,2808295030,Female,37,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5021,Narges,Karimi,4879244384,Female,25,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5022,Elnaz,Ahmadi,0228885752,Female,26,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5023,Mohammad,Karimi,6016893382,Male,67,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5024,Mina,Hashemi,4871271463,Female,33,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5025,Ali,Ghasemi,7851359783,Male,43,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5026,Zahra,Moradi,8594600569,Female,90,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5027,Ali,Moradi,7764271901,Male,80,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5028,Sara,Ahmadi,7118636592,Female,7,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5029,Reza,Moradi,9481979148,Male,56,Shiraz,Fars,Pneumonia,Infectious Diseases
+5030,Elnaz,Karimi,6656249639,Female,53,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5031,Mohammad,Rezai,6366940762,Male,16,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5032,Mehdi,Karimi,5053341321,Male,57,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5033,Fatemeh,Rezai,8101467912,Female,13,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5034,Farhad,Hosseini,5206054720,Male,47,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5035,Amir,Ahmadi,5678109881,Male,79,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5036,Farhad,Ghasemi,5852137952,Male,2,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5037,Mohammad,Hosseini,0402401816,Male,4,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5038,Sara,Rezai,4841914961,Female,21,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5039,Mohammad,Ghasemi,0545883466,Male,2,Isfahan,Isfahan,Kidney Stones (Renal Colic),Urology
+5040,Zahra,Rezai,3606118228,Female,16,Isfahan,Isfahan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5041,Mohammad,Karimi,3763696512,Male,72,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5042,Mohammad,Hashemi,6100422093,Male,59,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5043,Sara,Hosseini,9299013489,Female,45,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5044,Elnaz,Karimi,1720726760,Female,44,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5045,Maryam,Moradi,5162016659,Female,15,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5046,Mohammad,Ghasemi,0794324096,Male,81,Mashhad,Razavi Khorasan,Infertility Consultation,Gynecology/IVF
+5047,Zahra,Karimi,1429678674,Female,31,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5048,Elnaz,Hashemi,5550111047,Female,5,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5049,Arash,Karimi,8137387064,Male,89,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5050,Zahra,Hashemi,6257025850,Female,68,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5051,Sara,Moradi,1584699337,Female,10,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5052,Mohammad,Hashemi,3256482090,Male,35,Shiraz,Fars,Infertility Consultation,Gynecology/IVF
+5053,Ali,Karimi,7895984039,Male,33,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5054,Fatemeh,Moradi,2919537911,Female,27,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5055,Arash,Ghasemi,8588080710,Male,87,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5056,Mohammad,Karimi,7885882713,Male,38,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5057,Fatemeh,Moradi,5261049040,Female,67,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5058,Ali,Rezai,8380984668,Male,32,Tehran,Tehran,Pneumonia,Infectious Diseases
+5059,Mina,Karimi,6267699773,Female,84,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5060,Maryam,Mousavi,9474792518,Female,45,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5061,Mehdi,Ahmadi,5916720602,Male,65,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5062,Farhad,Moradi,5778771444,Male,5,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5063,Reza,Hosseini,9512313413,Male,88,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5064,Sara,Rezai,5914551791,Female,41,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5065,Amir,Karimi,6303063306,Male,59,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5066,Hossein,Hosseini,3025690267,Male,40,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5067,Ali,Ahmadi,6319307277,Male,56,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5068,Amir,Mousavi,6065862819,Male,18,Tehran,Tehran,Pneumonia,Infectious Diseases
+5069,Arash,Karimi,4928679172,Male,75,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5070,Narges,Mousavi,2500427072,Female,90,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5071,Fatemeh,Mousavi,4691231978,Female,55,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5072,Sepideh,Karimi,0461273195,Female,74,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5073,Mina,Hosseini,2911130782,Female,64,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5074,Maryam,Ghasemi,6009674808,Female,50,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5075,Hossein,Ghasemi,0293607176,Male,20,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5076,Reza,Rezai,3731071320,Male,55,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5077,Ali,Mousavi,3925009647,Male,2,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5078,Arash,Ahmadi,3444945401,Male,58,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5079,Amir,Karimi,6647675884,Male,40,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5080,Mohammad,Moradi,1864138297,Male,13,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5081,Maryam,Rezai,0179928570,Female,46,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5082,Ali,Hosseini,9872676038,Male,83,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5083,Maryam,Rezai,8293417269,Female,21,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5084,Mina,Moradi,1101025697,Female,35,Tehran,Tehran,Rhinoplasty (Elective),ENT / Plastic Surgery
+5085,Arash,Hashemi,0516535961,Male,37,Isfahan,Isfahan,Kidney Stones (Renal Colic),Urology
+5086,Fatemeh,Karimi,7498606720,Female,32,Tehran,Tehran,Acute Appendicitis,General Surgery
+5087,Farhad,Karimi,8777236475,Male,17,Tehran,Tehran,Cataract Surgery,Ophthalmology
+5088,Mohammad,Hosseini,2022229010,Male,21,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5089,Sepideh,Hosseini,2959688090,Female,71,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5090,Hossein,Moradi,7907283906,Male,2,Shiraz,Fars,Gastroenteritis,Internal Medicine
+5091,Reza,Hashemi,2122797630,Male,82,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5092,Fatemeh,Ghasemi,4124677979,Female,43,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5093,Narges,Rezai,7379506846,Female,36,Tehran,Tehran,Cataract Surgery,Ophthalmology
+5094,Mehdi,Hashemi,8439730004,Male,68,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5095,Hossein,Moradi,8043264899,Male,68,Isfahan,Isfahan,Type 2 Diabetes Follow-up,Endocrinology
+5096,Ali,Rezai,4796607420,Male,81,Shiraz,Fars,Infertility Consultation,Gynecology/IVF
+5097,Mohammad,Hashemi,0989200744,Male,5,Shiraz,Fars,Acute Appendicitis,General Surgery
+5098,Elnaz,Ahmadi,8445705709,Female,17,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5099,Ali,Ghasemi,7734048285,Male,41,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5100,Mina,Rezai,6074053243,Female,58,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5101,Farhad,Hashemi,9298758308,Male,3,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5102,Hossein,Hosseini,0692805370,Male,82,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5103,Farhad,Ghasemi,6013576998,Male,72,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5104,Sepideh,Hashemi,1044508868,Female,41,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5105,Mohammad,Rezai,1128586381,Male,10,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5106,Fatemeh,Hashemi,2007710862,Female,14,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5107,Amir,Ghasemi,2299566899,Male,9,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5108,Mehdi,Rezai,6530254595,Male,53,Isfahan,Isfahan,Kidney Stones (Renal Colic),Urology
+5109,Farhad,Ahmadi,5428250569,Male,48,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5110,Reza,Moradi,5401680392,Male,10,Isfahan,Isfahan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5111,Arash,Karimi,7768036611,Male,27,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5112,Amir,Karimi,4060073237,Male,50,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5113,Amir,Rezai,3086316365,Male,35,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5114,Elnaz,Hosseini,1664417125,Female,86,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5115,Farhad,Hashemi,4998003453,Male,84,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5116,Hossein,Karimi,3510230981,Male,72,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5117,Sepideh,Hashemi,5733126711,Female,57,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5118,Maryam,Hashemi,4165673242,Female,90,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5119,Farhad,Ghasemi,3732883353,Male,74,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5120,Maryam,Moradi,6214803703,Female,8,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5121,Hossein,Hosseini,5662376441,Male,26,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5122,Zahra,Mousavi,1231144769,Female,20,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5123,Fatemeh,Ahmadi,2757879286,Female,14,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5124,Mehdi,Mousavi,7775254513,Male,18,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5125,Mohammad,Hosseini,7946966301,Male,2,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5126,Hossein,Mousavi,5035770338,Male,55,Shiraz,Fars,Gastroenteritis,Internal Medicine
+5127,Ali,Rezai,1364125285,Male,9,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5128,Zahra,Hosseini,0282709681,Female,61,Mashhad,Razavi Khorasan,Infertility Consultation,Gynecology/IVF
+5129,Zahra,Hosseini,9455778841,Female,21,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5130,Sara,Karimi,0547640005,Female,3,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5131,Narges,Ghasemi,9984079899,Female,78,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5132,Sara,Rezai,5683877075,Female,78,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5133,Hossein,Mousavi,5894995744,Male,65,Shiraz,Fars,Acute Appendicitis,General Surgery
+5134,Maryam,Ghasemi,2887642359,Female,42,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5135,Amir,Rezai,7215130592,Male,30,Tehran,Tehran,Acute Appendicitis,General Surgery
+5136,Mohammad,Ghasemi,1674572506,Male,46,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5137,Maryam,Ghasemi,1688805885,Female,58,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5138,Mohammad,Hosseini,4957318522,Male,31,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5139,Sara,Karimi,4469324817,Female,17,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5140,Mohammad,Hosseini,9447749577,Male,72,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5141,Hossein,Ghasemi,8366402681,Male,3,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5142,Mehdi,Hashemi,3277837114,Male,15,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5143,Fatemeh,Ahmadi,0329130447,Female,16,Tehran,Tehran,Rhinoplasty (Elective),ENT / Plastic Surgery
+5144,Sepideh,Mousavi,0252410106,Female,23,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5145,Zahra,Hosseini,1769999272,Female,10,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5146,Mohammad,Moradi,9269834190,Male,48,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5147,Farhad,Hosseini,2318682720,Male,75,Shiraz,Fars,Gastroenteritis,Internal Medicine
+5148,Amir,Ahmadi,6809296565,Male,74,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5149,Elnaz,Karimi,2791836888,Female,85,Tehran,Tehran,Pneumonia,Infectious Diseases
+5150,Mehdi,Ahmadi,4316973428,Male,4,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5151,Hossein,Karimi,8546297398,Male,53,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5152,Ali,Moradi,4634559749,Male,32,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5153,Sepideh,Moradi,9559492276,Female,23,Isfahan,Isfahan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5154,Narges,Karimi,2162072742,Female,54,Shiraz,Fars,Pneumonia,Infectious Diseases
+5155,Amir,Hosseini,8722163174,Male,33,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5156,Mehdi,Mousavi,9025568221,Male,64,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5157,Farhad,Rezai,3258004749,Male,4,Shiraz,Fars,Acute Appendicitis,General Surgery
+5158,Mohammad,Ghasemi,6640193825,Male,48,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5159,Maryam,Moradi,5391869641,Female,62,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5160,Amir,Karimi,3460332549,Male,3,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5161,Hossein,Hashemi,8658058557,Male,28,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5162,Reza,Rezai,4587310182,Male,55,Isfahan,Isfahan,Kidney Stones (Renal Colic),Urology
+5163,Ali,Rezai,4024347268,Male,18,Tehran,Tehran,Acute Appendicitis,General Surgery
+5164,Mina,Ghasemi,2139306716,Female,49,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5165,Zahra,Karimi,9089721592,Female,75,Tehran,Tehran,Acute Appendicitis,General Surgery
+5166,Farhad,Mousavi,8790442520,Male,50,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5167,Hossein,Karimi,3568032708,Male,42,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5168,Maryam,Karimi,6986555709,Female,64,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5169,Farhad,Moradi,6202015020,Male,82,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5170,Sara,Ahmadi,2390164315,Female,39,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5171,Arash,Moradi,4304690485,Male,11,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5172,Hossein,Mousavi,7396848857,Male,23,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5173,Mohammad,Karimi,3125598028,Male,89,Shiraz,Fars,Infertility Consultation,Gynecology/IVF
+5174,Ali,Ghasemi,7951006122,Male,6,Shiraz,Fars,Chest Pain / Suspected MI,Cardiology
+5175,Amir,Hashemi,5764591481,Male,48,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5176,Sara,Ahmadi,2327266408,Female,36,Isfahan,Isfahan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5177,Mohammad,Mousavi,0409793965,Male,39,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5178,Mehdi,Hashemi,9284923239,Male,65,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5179,Sepideh,Hosseini,1842714600,Female,29,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5180,Narges,Ghasemi,9382756892,Female,89,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5181,Arash,Moradi,1021327883,Male,43,Isfahan,Isfahan,Type 2 Diabetes Follow-up,Endocrinology
+5182,Arash,Hashemi,3755041499,Male,9,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5183,Maryam,Moradi,2434281559,Female,80,Shiraz,Fars,Infertility Consultation,Gynecology/IVF
+5184,Farhad,Ahmadi,5365002156,Male,43,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5185,Hossein,Hosseini,2651680044,Male,6,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5186,Reza,Mousavi,0254425992,Male,77,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5187,Elnaz,Ghasemi,8274047583,Female,85,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5188,Ali,Hosseini,7858099264,Male,64,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5189,Maryam,Rezai,2071530527,Female,51,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5190,Ali,Moradi,9393689814,Male,13,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5191,Zahra,Hosseini,1414934920,Female,32,Shiraz,Fars,Acute Appendicitis,General Surgery
+5192,Hossein,Mousavi,4886764282,Male,6,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5193,Farhad,Hashemi,6831967000,Male,41,Shiraz,Fars,Infertility Consultation,Gynecology/IVF
+5194,Mina,Ahmadi,1297482476,Female,50,Shiraz,Fars,Chest Pain / Suspected MI,Cardiology
+5195,Maryam,Mousavi,7205543428,Female,62,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5196,Mohammad,Ghasemi,5418549340,Male,40,Mashhad,Razavi Khorasan,Infertility Consultation,Gynecology/IVF
+5197,Maryam,Ahmadi,7610788643,Female,70,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5198,Sara,Moradi,7762314326,Female,29,Tehran,Tehran,Pneumonia,Infectious Diseases
+5199,Amir,Hashemi,8123536062,Male,19,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5200,Amir,Karimi,1162560101,Male,7,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5201,Mehdi,Moradi,1757009051,Male,48,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5202,Mehdi,Ahmadi,7864156711,Male,79,Shiraz,Fars,Chest Pain / Suspected MI,Cardiology
+5203,Maryam,Moradi,6489920182,Female,46,Tehran,Tehran,Rhinoplasty (Elective),ENT / Plastic Surgery
+5204,Mina,Ghasemi,1020894717,Female,31,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5205,Mohammad,Ahmadi,7853570244,Male,8,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5206,Fatemeh,Ghasemi,8872454573,Female,5,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5207,Ali,Ghasemi,1379716209,Male,55,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5208,Elnaz,Hosseini,7707612884,Female,34,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5209,Ali,Ahmadi,3155146362,Male,40,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5210,Elnaz,Hashemi,3078067866,Female,15,Shiraz,Fars,Acute Appendicitis,General Surgery
+5211,Mina,Ghasemi,9014797362,Female,5,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5212,Amir,Rezai,4040702603,Male,35,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5213,Mohammad,Moradi,1233498169,Male,63,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5214,Narges,Ahmadi,8839121404,Female,14,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5215,Mohammad,Karimi,2596210541,Male,45,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5216,Ali,Moradi,4459675412,Male,31,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5217,Hossein,Hosseini,5010105683,Male,53,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5218,Mohammad,Mousavi,9010209628,Male,30,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5219,Narges,Mousavi,6496304831,Female,80,Isfahan,Isfahan,Kidney Stones (Renal Colic),Urology
+5220,Maryam,Rezai,5773455196,Female,2,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5221,Sepideh,Hosseini,0423895631,Female,39,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5222,Mehdi,Ahmadi,8719059655,Male,18,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5223,Mina,Karimi,4173988923,Female,68,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5224,Arash,Hosseini,0081826151,Male,88,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5225,Maryam,Hashemi,6391334201,Female,87,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5226,Mohammad,Ghasemi,7645939311,Male,85,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5227,Sepideh,Ghasemi,8483959593,Female,81,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5228,Sepideh,Hashemi,6546374781,Female,31,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5229,Hossein,Hosseini,0370963628,Male,59,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5230,Fatemeh,Mousavi,9613445511,Female,69,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5231,Mohammad,Hashemi,6334343750,Male,70,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5232,Arash,Moradi,2632015715,Male,48,Shiraz,Fars,Chest Pain / Suspected MI,Cardiology
+5233,Zahra,Ghasemi,4615775644,Female,23,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5234,Hossein,Ghasemi,6344097299,Male,3,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5235,Elnaz,Ahmadi,8997692674,Female,77,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5236,Reza,Ahmadi,2281280764,Male,73,Mashhad,Razavi Khorasan,Infertility Consultation,Gynecology/IVF
+5237,Reza,Rezai,9637296883,Male,78,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5238,Mehdi,Moradi,1443202800,Male,34,Shiraz,Fars,Chest Pain / Suspected MI,Cardiology
+5239,Mina,Karimi,1545160139,Female,39,Tehran,Tehran,Rhinoplasty (Elective),ENT / Plastic Surgery
+5240,Sepideh,Ghasemi,1325713295,Female,49,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5241,Mehdi,Moradi,6598859042,Male,63,Tehran,Tehran,Pneumonia,Infectious Diseases
+5242,Arash,Mousavi,2221452127,Male,77,Tehran,Tehran,Acute Appendicitis,General Surgery
+5243,Elnaz,Rezai,9710127802,Female,59,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5244,Sepideh,Karimi,4146154499,Female,40,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5245,Zahra,Karimi,3261683635,Female,27,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5246,Sepideh,Mousavi,4963680939,Female,38,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5247,Mehdi,Ahmadi,8276225381,Male,42,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5248,Maryam,Hosseini,1794590226,Female,21,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5249,Sepideh,Hosseini,7416992028,Female,55,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5250,Maryam,Ahmadi,3341744479,Female,36,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5251,Narges,Karimi,9783136097,Female,16,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5252,Zahra,Ahmadi,5265588299,Female,71,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5253,Sepideh,Ahmadi,3346444287,Female,20,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5254,Mohammad,Hosseini,9245569500,Male,47,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5255,Amir,Hosseini,5403256441,Male,60,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5256,Sara,Mousavi,0193023512,Female,47,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5257,Elnaz,Hosseini,6936608620,Female,53,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5258,Elnaz,Rezai,2216449164,Female,42,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5259,Farhad,Hosseini,4247724071,Male,53,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5260,Maryam,Ahmadi,0508718511,Female,3,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5261,Mehdi,Moradi,6169727421,Male,61,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5262,Maryam,Hosseini,5836273073,Female,60,Tehran,Tehran,Cataract Surgery,Ophthalmology
+5263,Sara,Mousavi,3482805407,Female,25,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5264,Mehdi,Ahmadi,7204762029,Male,73,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5265,Maryam,Rezai,4678398740,Female,4,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5266,Ali,Ahmadi,8437674141,Male,36,Isfahan,Isfahan,Kidney Stones (Renal Colic),Urology
+5267,Sara,Hosseini,5768290990,Female,84,Isfahan,Isfahan,Type 2 Diabetes Follow-up,Endocrinology
+5268,Farhad,Hashemi,9750851651,Male,25,Mashhad,Razavi Khorasan,Infertility Consultation,Gynecology/IVF
+5269,Narges,Rezai,8637703593,Female,10,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5270,Sepideh,Hosseini,0220426112,Female,2,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5271,Maryam,Hashemi,4551011282,Female,51,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5272,Amir,Hosseini,3236737001,Male,33,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5273,Elnaz,Moradi,8042723385,Female,75,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5274,Reza,Hashemi,3863741315,Male,8,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5275,Reza,Hashemi,5059658570,Male,70,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5276,Sara,Ahmadi,4690734178,Female,37,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5277,Sara,Ahmadi,9536414686,Female,59,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5278,Sepideh,Hosseini,7385454682,Female,58,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5279,Reza,Ahmadi,6348347052,Male,28,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5280,Mohammad,Ahmadi,5988053548,Male,45,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5281,Narges,Ghasemi,8993290075,Female,2,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5282,Ali,Hashemi,9862032928,Male,26,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5283,Arash,Karimi,7436832808,Male,17,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5284,Maryam,Mousavi,4034386959,Female,49,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5285,Zahra,Karimi,0088976629,Female,88,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5286,Fatemeh,Hashemi,0160261929,Female,41,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5287,Sara,Hashemi,9604355058,Female,44,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5288,Mehdi,Mousavi,3488414183,Male,84,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5289,Maryam,Moradi,0424003759,Female,72,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5290,Maryam,Karimi,3376757755,Female,23,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5291,Elnaz,Karimi,6861678872,Female,4,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5292,Maryam,Hosseini,2071509099,Female,70,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5293,Reza,Ahmadi,5928128975,Male,6,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5294,Sepideh,Hosseini,9584100971,Female,33,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5295,Narges,Rezai,1391115554,Female,71,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5296,Mohammad,Karimi,1072416239,Male,45,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5297,Mehdi,Moradi,8855642251,Male,53,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5298,Elnaz,Hashemi,0437716449,Female,58,Isfahan,Isfahan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5299,Sepideh,Rezai,5558500387,Female,20,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5300,Amir,Ghasemi,3163544916,Male,85,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5301,Ali,Hashemi,4862317693,Male,61,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5302,Farhad,Karimi,3785664192,Male,16,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5303,Amir,Hashemi,6028042846,Male,29,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5304,Ali,Moradi,3219796303,Male,31,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5305,Mina,Mousavi,0257157824,Female,21,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5306,Mina,Moradi,9525023990,Female,60,Tehran,Tehran,Acute Appendicitis,General Surgery
+5307,Elnaz,Ahmadi,1129215105,Female,13,Mashhad,Razavi Khorasan,Infertility Consultation,Gynecology/IVF
+5308,Narges,Rezai,8111729081,Female,56,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5309,Mohammad,Karimi,9479749874,Male,81,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5310,Amir,Ahmadi,7120638777,Male,83,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5311,Ali,Moradi,2153800919,Male,82,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5312,Sepideh,Mousavi,0416883001,Female,14,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5313,Maryam,Ahmadi,4664942311,Female,82,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5314,Narges,Hosseini,1121184375,Female,68,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5315,Hossein,Ghasemi,6117843062,Male,88,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5316,Mohammad,Karimi,6508400071,Male,86,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5317,Ali,Hosseini,2300837293,Male,4,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5318,Mina,Karimi,5202772580,Female,72,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5319,Amir,Rezai,4382691974,Male,64,Mashhad,Razavi Khorasan,Infertility Consultation,Gynecology/IVF
+5320,Sepideh,Hosseini,8918679521,Female,17,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5321,Farhad,Karimi,2738305997,Male,52,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5322,Zahra,Rezai,6542115005,Female,44,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5323,Arash,Mousavi,3983500374,Male,88,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5324,Sepideh,Moradi,8515062097,Female,30,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5325,Hossein,Ahmadi,4346691919,Male,33,Shiraz,Fars,Acute Appendicitis,General Surgery
+5326,Mina,Rezai,7978788271,Female,15,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5327,Narges,Karimi,4270450436,Female,47,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5328,Mohammad,Moradi,4550522453,Male,69,Shiraz,Fars,Chest Pain / Suspected MI,Cardiology
+5329,Elnaz,Ahmadi,6369008291,Female,5,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5330,Reza,Hosseini,9210913280,Male,74,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5331,Mohammad,Karimi,2995889866,Male,57,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5332,Hossein,Moradi,9706047621,Male,46,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5333,Narges,Mousavi,9789694725,Female,8,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5334,Farhad,Ghasemi,9249253151,Male,39,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5335,Reza,Karimi,8560031375,Male,44,Shiraz,Fars,Gastroenteritis,Internal Medicine
+5336,Mehdi,Ghasemi,0421434724,Male,78,Shiraz,Fars,Gastroenteritis,Internal Medicine
+5337,Ali,Hosseini,9974907251,Male,54,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5338,Zahra,Ghasemi,8387196134,Female,47,Mashhad,Razavi Khorasan,Infertility Consultation,Gynecology/IVF
+5339,Narges,Mousavi,0493431421,Female,19,Tehran,Tehran,Rhinoplasty (Elective),ENT / Plastic Surgery
+5340,Hossein,Hosseini,6916903783,Male,18,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5341,Fatemeh,Ahmadi,3120941719,Female,34,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5342,Maryam,Rezai,3161819500,Female,36,Tehran,Tehran,Cataract Surgery,Ophthalmology
+5343,Fatemeh,Hashemi,1422234551,Female,38,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5344,Zahra,Moradi,0041386851,Female,28,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5345,Fatemeh,Rezai,7135030699,Female,55,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5346,Mina,Mousavi,5663120726,Female,84,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5347,Mehdi,Rezai,9568684816,Male,11,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5348,Narges,Ahmadi,2817640047,Female,5,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5349,Elnaz,Karimi,9680692744,Female,18,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5350,Sepideh,Moradi,4065534933,Female,58,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5351,Arash,Hosseini,1098184300,Male,86,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5352,Fatemeh,Ahmadi,3023789827,Female,25,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5353,Fatemeh,Hashemi,9138926164,Female,64,Isfahan,Isfahan,Type 2 Diabetes Follow-up,Endocrinology
+5354,Sepideh,Ahmadi,1926261399,Female,77,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5355,Mohammad,Karimi,1658513908,Male,29,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5356,Amir,Ahmadi,8915954874,Male,47,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5357,Farhad,Karimi,7304836873,Male,18,Shiraz,Fars,Chest Pain / Suspected MI,Cardiology
+5358,Mehdi,Ahmadi,3248233257,Male,33,Shiraz,Fars,Pneumonia,Infectious Diseases
+5359,Amir,Moradi,0494054867,Male,50,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5360,Farhad,Hashemi,8645228696,Male,35,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5361,Zahra,Rezai,0513730397,Female,52,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5362,Elnaz,Rezai,9688408123,Female,72,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5363,Farhad,Mousavi,9947770631,Male,87,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5364,Sepideh,Hosseini,5986805402,Female,8,Tehran,Tehran,Cataract Surgery,Ophthalmology
+5365,Sara,Hosseini,2155213867,Female,80,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5366,Mehdi,Hosseini,5461461931,Male,29,Shiraz,Fars,Pneumonia,Infectious Diseases
+5367,Arash,Mousavi,0221812903,Male,50,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5368,Mohammad,Moradi,8621644711,Male,83,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5369,Maryam,Moradi,3544611651,Female,44,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5370,Hossein,Ahmadi,6916665998,Male,50,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5371,Elnaz,Moradi,3973841977,Female,54,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5372,Narges,Ahmadi,3665467527,Female,42,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5373,Zahra,Hashemi,2371185035,Female,42,Tehran,Tehran,Rhinoplasty (Elective),ENT / Plastic Surgery
+5374,Hossein,Mousavi,8188044342,Male,28,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5375,Sara,Rezai,3208308906,Female,63,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5376,Mohammad,Hashemi,1842050117,Male,3,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5377,Sepideh,Mousavi,8224715310,Female,41,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5378,Mohammad,Hosseini,5379233554,Male,56,Tehran,Tehran,Pneumonia,Infectious Diseases
+5379,Narges,Ahmadi,5346903674,Female,72,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5380,Ali,Hashemi,2468508092,Male,57,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5381,Arash,Mousavi,4856508814,Male,89,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5382,Narges,Moradi,0079345778,Female,14,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5383,Amir,Moradi,2876450658,Male,90,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5384,Reza,Mousavi,2023208475,Male,3,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5385,Narges,Karimi,3190890390,Female,60,Shiraz,Fars,Chest Pain / Suspected MI,Cardiology
+5386,Sepideh,Moradi,9210853474,Female,60,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5387,Farhad,Karimi,7516220469,Male,43,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5388,Hossein,Ahmadi,5864127094,Male,34,Tehran,Tehran,Acute Appendicitis,General Surgery
+5389,Elnaz,Moradi,1483839461,Female,33,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5390,Mehdi,Moradi,4842991313,Male,62,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5391,Amir,Moradi,3295373051,Male,47,Isfahan,Isfahan,Kidney Stones (Renal Colic),Urology
+5392,Sara,Ahmadi,0835167402,Female,60,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5393,Mina,Hashemi,8076577764,Female,46,Shiraz,Fars,Chest Pain / Suspected MI,Cardiology
+5394,Reza,Karimi,4487830923,Male,39,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5395,Maryam,Moradi,9868664802,Female,57,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5396,Amir,Rezai,1181042585,Male,69,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5397,Sepideh,Rezai,4145121181,Female,50,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5398,Sara,Hashemi,3028002744,Female,1,Shiraz,Fars,Acute Appendicitis,General Surgery
+5399,Hossein,Mousavi,1253278016,Male,67,Shiraz,Fars,Pneumonia,Infectious Diseases
+5400,Maryam,Moradi,8082747633,Female,39,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5401,Mehdi,Hosseini,6867753541,Male,48,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5402,Reza,Mousavi,6928642378,Male,9,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5403,Farhad,Hashemi,6313267494,Male,10,Isfahan,Isfahan,Type 2 Diabetes Follow-up,Endocrinology
+5404,Amir,Rezai,5911986825,Male,23,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5405,Farhad,Rezai,2331164118,Male,67,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5406,Sara,Hashemi,0227304314,Female,26,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5407,Sepideh,Rezai,6048605293,Female,57,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5408,Sara,Ahmadi,8545790627,Female,86,Shiraz,Fars,Acute Appendicitis,General Surgery
+5409,Farhad,Karimi,5517595081,Male,30,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5410,Narges,Ahmadi,8490562512,Female,71,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5411,Ali,Ahmadi,3293239781,Male,53,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5412,Arash,Ghasemi,0774325526,Male,53,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5413,Amir,Hashemi,9454143875,Male,66,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5414,Reza,Ahmadi,4346379141,Male,71,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5415,Mina,Mousavi,2022211820,Female,14,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5416,Arash,Moradi,1736966588,Male,52,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5417,Mohammad,Rezai,8012185083,Male,51,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5418,Ali,Mousavi,8588939029,Male,15,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5419,Fatemeh,Karimi,6822150145,Female,14,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5420,Narges,Mousavi,9884259070,Female,33,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5421,Mina,Moradi,4909581693,Female,86,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5422,Narges,Ghasemi,7152560331,Female,60,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5423,Ali,Moradi,0217025595,Male,62,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5424,Fatemeh,Rezai,5375074370,Female,3,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5425,Narges,Hashemi,1105376168,Female,32,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5426,Amir,Hashemi,8626558872,Male,10,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5427,Zahra,Rezai,6589757925,Female,59,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5428,Elnaz,Karimi,5377526562,Female,38,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5429,Fatemeh,Rezai,3392929549,Female,27,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5430,Sara,Ghasemi,5923391589,Female,64,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5431,Mina,Hosseini,6476696191,Female,38,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5432,Hossein,Ahmadi,2820254446,Male,5,Tehran,Tehran,Rhinoplasty (Elective),ENT / Plastic Surgery
+5433,Mohammad,Moradi,2795920085,Male,49,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5434,Reza,Hosseini,6504191263,Male,38,Isfahan,Isfahan,Type 2 Diabetes Follow-up,Endocrinology
+5435,Zahra,Ahmadi,1192065204,Female,69,Shiraz,Fars,Acute Appendicitis,General Surgery
+5436,Narges,Mousavi,9390414415,Female,1,Tehran,Tehran,Pneumonia,Infectious Diseases
+5437,Maryam,Hosseini,5493413345,Female,27,Shiraz,Fars,Pneumonia,Infectious Diseases
+5438,Amir,Moradi,6317857199,Male,67,Tehran,Tehran,Acute Appendicitis,General Surgery
+5439,Amir,Ahmadi,8946976969,Male,4,Shiraz,Fars,Pneumonia,Infectious Diseases
+5440,Fatemeh,Hashemi,7973170960,Female,54,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5441,Mina,Hashemi,2368274391,Female,37,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5442,Farhad,Rezai,7490106907,Male,20,Isfahan,Isfahan,Type 2 Diabetes Follow-up,Endocrinology
+5443,Reza,Ahmadi,3373573106,Male,7,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5444,Hossein,Ahmadi,2783764458,Male,54,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5445,Zahra,Rezai,1766291147,Female,24,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5446,Amir,Rezai,0168602407,Male,16,Shiraz,Fars,Chest Pain / Suspected MI,Cardiology
+5447,Mehdi,Ahmadi,5135991311,Male,11,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5448,Hossein,Hashemi,4373210195,Male,83,Tehran,Tehran,Rhinoplasty (Elective),ENT / Plastic Surgery
+5449,Arash,Ahmadi,8868817888,Male,57,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5450,Sepideh,Ghasemi,2530899363,Female,16,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5451,Mina,Ahmadi,8851482284,Female,90,Shiraz,Fars,Acute Appendicitis,General Surgery
+5452,Narges,Moradi,4771792321,Female,47,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5453,Mehdi,Rezai,2414038871,Male,15,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5454,Sara,Mousavi,4288787491,Female,68,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5455,Ali,Karimi,9346614481,Male,71,Isfahan,Isfahan,Type 2 Diabetes Follow-up,Endocrinology
+5456,Fatemeh,Ahmadi,1796947881,Female,81,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5457,Narges,Ahmadi,0862479401,Female,68,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5458,Mina,Ahmadi,4328515853,Female,78,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5459,Ali,Karimi,2647598975,Male,25,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5460,Fatemeh,Ahmadi,9176491072,Female,48,Isfahan,Isfahan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5461,Ali,Hosseini,2123307319,Male,8,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5462,Amir,Karimi,3188927746,Male,46,Shiraz,Fars,Acute Appendicitis,General Surgery
+5463,Hossein,Rezai,9752975951,Male,68,Shiraz,Fars,Infertility Consultation,Gynecology/IVF
+5464,Amir,Ahmadi,9301466309,Male,8,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5465,Fatemeh,Rezai,4661588584,Female,2,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5466,Ali,Rezai,9488259191,Male,75,Isfahan,Isfahan,Type 2 Diabetes Follow-up,Endocrinology
+5467,Elnaz,Moradi,4978609852,Female,30,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5468,Elnaz,Rezai,7622122841,Female,62,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5469,Hossein,Rezai,0813849500,Male,59,Shiraz,Fars,Chest Pain / Suspected MI,Cardiology
+5470,Fatemeh,Hosseini,2336219921,Female,66,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5471,Mehdi,Hosseini,4278035144,Male,82,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5472,Elnaz,Hashemi,4095856221,Female,50,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5473,Fatemeh,Karimi,5146335834,Female,72,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5474,Arash,Ahmadi,0494510439,Male,44,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5475,Fatemeh,Hashemi,0927966042,Female,61,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5476,Ali,Rezai,1198817356,Male,21,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5477,Fatemeh,Rezai,4525799102,Female,9,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5478,Sepideh,Rezai,0700962565,Female,12,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5479,Sara,Ghasemi,3225252883,Female,63,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5480,Hossein,Karimi,3047709343,Male,5,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5481,Mina,Ghasemi,9565285244,Female,85,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5482,Mohammad,Rezai,6790762140,Male,5,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5483,Narges,Mousavi,8420608831,Female,41,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5484,Mehdi,Rezai,1324595701,Male,40,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5485,Fatemeh,Moradi,4607834823,Female,89,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5486,Hossein,Mousavi,9328641802,Male,15,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5487,Hossein,Ghasemi,3231375827,Male,26,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5488,Arash,Ghasemi,1401118623,Male,61,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5489,Mehdi,Karimi,6658567646,Male,65,Tehran,Tehran,Cataract Surgery,Ophthalmology
+5490,Sara,Hashemi,3299893106,Female,69,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5491,Mehdi,Ahmadi,7885859533,Male,55,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5492,Arash,Hosseini,8744497784,Male,70,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5493,Mehdi,Hashemi,1171022247,Male,39,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5494,Ali,Karimi,0607849193,Male,86,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5495,Fatemeh,Ghasemi,4173181851,Female,58,Shiraz,Fars,Pneumonia,Infectious Diseases
+5496,Mina,Rezai,8894944506,Female,15,Shiraz,Fars,Acute Appendicitis,General Surgery
+5497,Sepideh,Rezai,3552603875,Female,78,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5498,Mina,Moradi,5799125320,Female,10,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5499,Sepideh,Hashemi,4938238810,Female,10,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5500,Amir,Ahmadi,1849434468,Male,23,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5501,Farhad,Ahmadi,8909099577,Male,33,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5502,Reza,Mousavi,4515673041,Male,36,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5503,Mina,Moradi,4457303836,Female,23,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5504,Maryam,Hosseini,0995580537,Female,18,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5505,Amir,Ghasemi,6156671021,Male,75,Isfahan,Isfahan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5506,Elnaz,Ghasemi,1265694923,Female,79,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5507,Sara,Karimi,8244248491,Female,9,Shiraz,Fars,Acute Appendicitis,General Surgery
+5508,Narges,Karimi,9576811600,Female,60,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5509,Sara,Ahmadi,6081234487,Female,31,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5510,Amir,Mousavi,7064906813,Male,14,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5511,Arash,Ghasemi,4531441982,Male,84,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5512,Mehdi,Ahmadi,9201515677,Male,14,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5513,Mina,Ghasemi,9104589998,Female,44,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5514,Mina,Ahmadi,0270830723,Female,90,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5515,Mohammad,Karimi,7433144927,Male,58,Tehran,Tehran,Rhinoplasty (Elective),ENT / Plastic Surgery
+5516,Fatemeh,Karimi,1110500807,Female,35,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5517,Mohammad,Karimi,9789751826,Male,24,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5518,Farhad,Hosseini,5364153665,Male,32,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5519,Farhad,Hashemi,6474680857,Male,61,Shiraz,Fars,Pneumonia,Infectious Diseases
+5520,Zahra,Hosseini,0336141548,Female,1,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5521,Ali,Moradi,4588992538,Male,86,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5522,Maryam,Hashemi,0296823112,Female,10,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5523,Elnaz,Moradi,5486812116,Female,15,Mashhad,Razavi Khorasan,Infertility Consultation,Gynecology/IVF
+5524,Hossein,Ahmadi,1687050341,Male,54,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5525,Sara,Rezai,3803025109,Female,63,Isfahan,Isfahan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5526,Elnaz,Mousavi,8298308451,Female,11,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5527,Maryam,Moradi,2868912834,Female,66,Tehran,Tehran,Pneumonia,Infectious Diseases
+5528,Ali,Ahmadi,7059755675,Male,65,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5529,Sepideh,Karimi,8501272949,Female,49,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5530,Fatemeh,Rezai,9502304802,Female,83,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5531,Ali,Hosseini,8117700646,Male,51,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5532,Sepideh,Mousavi,2962681611,Female,35,Shiraz,Fars,Pneumonia,Infectious Diseases
+5533,Sara,Hashemi,2103964896,Female,70,Isfahan,Isfahan,Type 2 Diabetes Follow-up,Endocrinology
+5534,Mohammad,Rezai,5072948854,Male,88,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5535,Fatemeh,Ghasemi,5089469849,Female,49,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5536,Elnaz,Ahmadi,9265976357,Female,88,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5537,Mohammad,Ghasemi,5350633260,Male,73,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5538,Ali,Karimi,1561351301,Male,40,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5539,Maryam,Hosseini,3371849147,Female,31,Shiraz,Fars,Infertility Consultation,Gynecology/IVF
+5540,Fatemeh,Ahmadi,7508998359,Female,81,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5541,Fatemeh,Mousavi,8493874353,Female,20,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5542,Mehdi,Rezai,0880742453,Male,71,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5543,Farhad,Hashemi,6821671877,Male,5,Shiraz,Fars,Pneumonia,Infectious Diseases
+5544,Sepideh,Rezai,7791735903,Female,88,Tehran,Tehran,Cataract Surgery,Ophthalmology
+5545,Mohammad,Hosseini,6638603892,Male,23,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5546,Ali,Hosseini,0873589807,Male,56,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5547,Mina,Ghasemi,9696818394,Female,66,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5548,Arash,Hosseini,3665721792,Male,14,Shiraz,Fars,Pneumonia,Infectious Diseases
+5549,Mina,Rezai,4706924421,Female,15,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5550,Maryam,Hosseini,2987687842,Female,46,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5551,Maryam,Rezai,9299779120,Female,82,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5552,Ali,Ahmadi,2442309051,Male,44,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5553,Narges,Ghasemi,2405861046,Female,11,Shiraz,Fars,Infertility Consultation,Gynecology/IVF
+5554,Sara,Rezai,4957575614,Female,15,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5555,Mina,Mousavi,6798438180,Female,7,Shiraz,Fars,Acute Appendicitis,General Surgery
+5556,Ali,Ghasemi,8290819544,Male,53,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5557,Farhad,Hashemi,9941349916,Male,73,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5558,Maryam,Karimi,1982219548,Female,51,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5559,Ali,Ahmadi,0206984553,Male,33,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5560,Ali,Ghasemi,4575221430,Male,16,Tehran,Tehran,Pneumonia,Infectious Diseases
+5561,Ali,Ahmadi,2154375634,Male,12,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5562,Amir,Hashemi,4164844116,Male,71,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5563,Maryam,Ghasemi,7439218779,Female,83,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5564,Zahra,Karimi,1793046026,Female,6,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5565,Mina,Rezai,4696478297,Female,16,Tehran,Tehran,Pneumonia,Infectious Diseases
+5566,Amir,Mousavi,8593235468,Male,4,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5567,Sara,Karimi,8713498101,Female,34,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5568,Fatemeh,Rezai,1893956121,Female,11,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5569,Mina,Ghasemi,4701716545,Female,64,Shiraz,Fars,Gastroenteritis,Internal Medicine
+5570,Mina,Ahmadi,4405558851,Female,84,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5571,Amir,Mousavi,9521560460,Male,83,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5572,Zahra,Hosseini,8273498492,Female,38,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5573,Zahra,Hosseini,9346212111,Female,18,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5574,Arash,Hashemi,9400771061,Male,53,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5575,Mehdi,Hosseini,6354428719,Male,63,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5576,Hossein,Ghasemi,7392500775,Male,8,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5577,Zahra,Ahmadi,1941287735,Female,17,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5578,Mehdi,Hashemi,0864260326,Male,47,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5579,Amir,Hashemi,2523061864,Male,73,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5580,Sepideh,Moradi,5557469230,Female,65,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5581,Zahra,Hosseini,8191001128,Female,76,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5582,Mohammad,Mousavi,7172328302,Male,50,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5583,Zahra,Karimi,5869353548,Female,34,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5584,Zahra,Rezai,7392775723,Female,62,Isfahan,Isfahan,Type 2 Diabetes Follow-up,Endocrinology
+5585,Ali,Hashemi,3927116602,Male,21,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5586,Amir,Ahmadi,6071039959,Male,25,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5587,Ali,Hashemi,9045846926,Male,5,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5588,Farhad,Hashemi,3934719171,Male,12,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5589,Hossein,Ghasemi,7902826804,Male,31,Isfahan,Isfahan,Type 2 Diabetes Follow-up,Endocrinology
+5590,Hossein,Rezai,1758850604,Male,67,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5591,Hossein,Karimi,2182845224,Male,58,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5592,Mohammad,Hosseini,6588795297,Male,24,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5593,Ali,Rezai,7607258711,Male,60,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5594,Narges,Hashemi,5721361638,Female,30,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5595,Reza,Ahmadi,0006158900,Male,90,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5596,Mehdi,Karimi,8895738357,Male,7,Shiraz,Fars,Gastroenteritis,Internal Medicine
+5597,Mina,Hashemi,8679864481,Female,32,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5598,Maryam,Ahmadi,5864784575,Female,53,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5599,Sara,Hashemi,6716303863,Female,1,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5600,Fatemeh,Hosseini,6688016559,Female,42,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5601,Mehdi,Karimi,5229756594,Male,13,Mashhad,Razavi Khorasan,Infertility Consultation,Gynecology/IVF
+5602,Elnaz,Ghasemi,8363595799,Female,6,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5603,Farhad,Ghasemi,7267080294,Male,4,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5604,Zahra,Hashemi,8167027945,Female,57,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5605,Zahra,Ghasemi,9561801604,Female,72,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5606,Mehdi,Moradi,9059783557,Male,36,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5607,Mohammad,Ghasemi,8567733669,Male,54,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5608,Ali,Moradi,4660651517,Male,3,Shiraz,Fars,Asthma / Respiratory Distress,Pulmonology
+5609,Hossein,Rezai,3378284994,Male,13,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5610,Amir,Ahmadi,3448052094,Male,20,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5611,Hossein,Karimi,0815876599,Male,28,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5612,Fatemeh,Ghasemi,3599703353,Female,37,Isfahan,Isfahan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5613,Fatemeh,Hosseini,1309437221,Female,10,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5614,Sepideh,Hashemi,6650315109,Female,75,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5615,Sara,Hosseini,6486819359,Female,13,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5616,Mina,Ahmadi,6345130184,Female,87,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5617,Zahra,Ahmadi,6181151443,Female,79,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5618,Reza,Rezai,6488494104,Male,90,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5619,Mehdi,Ghasemi,0160253004,Male,80,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5620,Amir,Rezai,4205085672,Male,30,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5621,Mina,Moradi,5640219432,Female,17,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5622,Maryam,Hosseini,9486455783,Female,23,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5623,Sepideh,Ghasemi,1398139106,Female,59,Isfahan,Isfahan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5624,Elnaz,Karimi,4477275129,Female,58,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5625,Mina,Moradi,1301940518,Female,71,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5626,Farhad,Ahmadi,2857387350,Male,41,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5627,Zahra,Moradi,4590495295,Female,31,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5628,Sepideh,Mousavi,5598326914,Female,21,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5629,Arash,Ghasemi,3761643128,Male,19,Tehran,Tehran,Rhinoplasty (Elective),ENT / Plastic Surgery
+5630,Ali,Ghasemi,7513233020,Male,81,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5631,Mehdi,Ahmadi,1764719212,Male,7,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5632,Ali,Karimi,6206763102,Male,11,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5633,Farhad,Ghasemi,4715768739,Male,72,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5634,Ali,Mousavi,2056476738,Male,38,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5635,Sepideh,Ghasemi,1789916941,Female,40,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5636,Zahra,Ghasemi,5161303451,Female,16,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5637,Farhad,Rezai,2453291742,Male,70,Isfahan,Isfahan,Type 2 Diabetes Follow-up,Endocrinology
+5638,Zahra,Rezai,7013184314,Female,87,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5639,Arash,Rezai,2175544427,Male,5,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5640,Zahra,Rezai,1216780560,Female,75,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5641,Fatemeh,Ghasemi,9747353911,Female,52,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5642,Elnaz,Ghasemi,1753132101,Female,71,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5643,Reza,Ahmadi,6852207145,Male,27,Shiraz,Fars,Chest Pain / Suspected MI,Cardiology
+5644,Elnaz,Karimi,1248202856,Female,29,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5645,Mohammad,Karimi,4016472822,Male,28,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5646,Maryam,Ghasemi,7060660798,Female,20,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5647,Mina,Hashemi,2436434719,Female,45,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5648,Sara,Hashemi,5750406581,Female,36,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5649,Fatemeh,Ahmadi,9884840407,Female,22,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5650,Sara,Karimi,2911102525,Female,66,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5651,Mina,Karimi,7317124303,Female,9,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5652,Zahra,Hosseini,5364442055,Female,27,Mashhad,Razavi Khorasan,Infertility Consultation,Gynecology/IVF
+5653,Maryam,Moradi,1759771082,Female,51,Isfahan,Isfahan,Kidney Stones (Renal Colic),Urology
+5654,Amir,Ahmadi,2957258821,Male,9,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5655,Maryam,Hashemi,1603052623,Female,78,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5656,Mohammad,Hashemi,3835163949,Male,50,Isfahan,Isfahan,Kidney Stones (Renal Colic),Urology
+5657,Mehdi,Moradi,1077356307,Male,63,Shiraz,Fars,Gastroenteritis,Internal Medicine
+5658,Hossein,Mousavi,7220329261,Male,24,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5659,Hossein,Mousavi,6726875827,Male,59,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5660,Reza,Rezai,6712162068,Male,70,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5661,Mina,Karimi,5643777029,Female,51,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5662,Narges,Ahmadi,2250767688,Female,13,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5663,Ali,Karimi,7802875056,Male,22,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5664,Reza,Karimi,0664235182,Male,45,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5665,Hossein,Ghasemi,9813998067,Male,14,Tehran,Tehran,Acute Appendicitis,General Surgery
+5666,Arash,Ghasemi,8710903631,Male,2,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5667,Zahra,Rezai,0808248480,Female,63,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5668,Arash,Karimi,5363852349,Male,78,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5669,Ali,Hashemi,7379646176,Male,62,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5670,Maryam,Hosseini,9600039501,Female,34,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5671,Arash,Ahmadi,2079411551,Male,68,Shiraz,Fars,Pneumonia,Infectious Diseases
+5672,Farhad,Hashemi,0873881370,Male,64,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5673,Sara,Hashemi,4449003535,Female,28,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5674,Elnaz,Hosseini,1276929307,Female,5,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5675,Mina,Hashemi,6671556016,Female,48,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5676,Fatemeh,Rezai,1032297980,Female,73,Shiraz,Fars,Pneumonia,Infectious Diseases
+5677,Fatemeh,Rezai,3901143904,Female,83,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5678,Mehdi,Ghasemi,2900035244,Male,65,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5679,Elnaz,Hashemi,3951668725,Female,86,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5680,Maryam,Ahmadi,2134450568,Female,89,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5681,Mohammad,Ahmadi,0311615104,Male,19,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5682,Sara,Moradi,3248334738,Female,44,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5683,Elnaz,Moradi,0400971380,Female,29,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5684,Hossein,Ahmadi,2264645172,Male,69,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5685,Reza,Moradi,4046357568,Male,47,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5686,Arash,Ghasemi,5836328803,Male,30,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5687,Elnaz,Ghasemi,8136102856,Female,27,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5688,Sara,Ghasemi,8779467660,Female,69,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5689,Narges,Hashemi,2306710627,Female,52,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5690,Zahra,Mousavi,1986792153,Female,68,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5691,Farhad,Rezai,8788278026,Male,67,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5692,Sepideh,Ahmadi,6742305657,Female,57,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5693,Mina,Ahmadi,2939178224,Female,13,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5694,Arash,Ghasemi,9486123772,Male,26,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5695,Fatemeh,Moradi,4827188963,Female,77,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5696,Mohammad,Karimi,5385831859,Male,44,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5697,Mohammad,Moradi,0213706504,Male,49,Shiraz,Fars,Infertility Consultation,Gynecology/IVF
+5698,Narges,Ahmadi,0677856113,Female,54,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5699,Elnaz,Ahmadi,2721267711,Female,79,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5700,Arash,Ghasemi,7860644207,Male,2,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5701,Reza,Karimi,2919802021,Male,6,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5702,Reza,Ghasemi,0461065207,Male,37,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5703,Reza,Karimi,7735553420,Male,28,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5704,Mina,Moradi,3216986969,Female,89,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5705,Sara,Moradi,5907220112,Female,89,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5706,Ali,Moradi,0984210385,Male,55,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5707,Zahra,Karimi,3906272771,Female,52,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5708,Zahra,Ahmadi,6821963691,Female,47,Shiraz,Fars,Chest Pain / Suspected MI,Cardiology
+5709,Fatemeh,Hosseini,3282717725,Female,81,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5710,Ali,Ghasemi,7994042880,Male,42,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5711,Maryam,Rezai,6732273884,Female,29,Tehran,Tehran,Cataract Surgery,Ophthalmology
+5712,Mehdi,Mousavi,7240348806,Male,25,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5713,Mehdi,Ahmadi,1953361651,Male,13,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5714,Ali,Karimi,4307112016,Male,8,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5715,Farhad,Ghasemi,0065553012,Male,66,Shiraz,Fars,Acute Appendicitis,General Surgery
+5716,Reza,Ghasemi,4171834503,Male,39,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5717,Elnaz,Rezai,2904498591,Female,39,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5718,Fatemeh,Ghasemi,6886875418,Female,46,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5719,Reza,Moradi,2194604766,Male,19,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5720,Mina,Mousavi,9144722265,Female,86,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5721,Mohammad,Ghasemi,0451953231,Male,83,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5722,Arash,Hashemi,6620229743,Male,10,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5723,Amir,Hosseini,3735526454,Male,18,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5724,Narges,Mousavi,8832099152,Female,29,Shiraz,Fars,Acute Appendicitis,General Surgery
+5725,Ali,Mousavi,8649161596,Male,44,Tehran,Tehran,Acute Appendicitis,General Surgery
+5726,Sara,Ghasemi,0298629240,Female,63,Tehran,Tehran,Pneumonia,Infectious Diseases
+5727,Mina,Karimi,9685130825,Female,35,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5728,Elnaz,Karimi,2970180057,Female,51,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5729,Mina,Hosseini,6048778805,Female,55,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5730,Narges,Hashemi,6572036456,Female,48,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5731,Fatemeh,Moradi,1343705096,Female,6,Tehran,Tehran,Cataract Surgery,Ophthalmology
+5732,Narges,Moradi,9390338034,Female,68,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5733,Reza,Ahmadi,3209583676,Male,40,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5734,Narges,Rezai,7523183689,Female,51,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5735,Fatemeh,Hosseini,3199622135,Female,58,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5736,Sepideh,Mousavi,4125559724,Female,78,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5737,Narges,Hashemi,1785747304,Female,33,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5738,Fatemeh,Mousavi,7179774812,Female,85,Mashhad,Razavi Khorasan,Infertility Consultation,Gynecology/IVF
+5739,Mina,Rezai,6843069517,Female,65,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5740,Ali,Hashemi,1781182213,Male,86,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5741,Mohammad,Hosseini,1436486238,Male,9,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5742,Arash,Hosseini,6928106204,Male,27,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5743,Mohammad,Hashemi,0570142334,Male,21,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5744,Reza,Moradi,8674930433,Male,36,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5745,Hossein,Moradi,4128837865,Male,18,Shiraz,Fars,Pneumonia,Infectious Diseases
+5746,Elnaz,Karimi,4480427155,Female,68,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5747,Narges,Hashemi,3057811493,Female,65,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5748,Hossein,Moradi,1713008084,Male,10,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5749,Ali,Mousavi,6741270590,Male,34,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5750,Amir,Ahmadi,3149367522,Male,68,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5751,Narges,Ahmadi,5481825201,Female,28,Mashhad,Razavi Khorasan,Infertility Consultation,Gynecology/IVF
+5752,Elnaz,Mousavi,6511484580,Female,19,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5753,Ali,Rezai,1849249784,Male,32,Tehran,Tehran,Cataract Surgery,Ophthalmology
+5754,Elnaz,Rezai,3919236432,Female,67,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5755,Reza,Hosseini,7001556701,Male,2,Shiraz,Fars,Pneumonia,Infectious Diseases
+5756,Farhad,Rezai,4892088552,Male,60,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5757,Elnaz,Karimi,2774181917,Female,89,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5758,Mina,Hashemi,8088019664,Female,25,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5759,Mehdi,Rezai,2974949096,Male,41,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5760,Narges,Hashemi,4662933943,Female,57,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5761,Arash,Ghasemi,8635686616,Male,5,Tehran,Tehran,Pneumonia,Infectious Diseases
+5762,Mina,Moradi,4319079892,Female,77,Tehran,Tehran,Rhinoplasty (Elective),ENT / Plastic Surgery
+5763,Hossein,Ghasemi,1139097695,Male,75,Mashhad,Razavi Khorasan,Infertility Consultation,Gynecology/IVF
+5764,Mohammad,Karimi,7195870278,Male,33,Isfahan,Isfahan,Kidney Stones (Renal Colic),Urology
+5765,Sara,Karimi,0680583262,Female,37,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5766,Zahra,Hashemi,4107825795,Female,61,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5767,Mehdi,Hashemi,5397978086,Male,10,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5768,Mehdi,Ahmadi,1706855291,Male,69,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5769,Zahra,Rezai,7139747611,Female,20,Tehran,Tehran,Acute Appendicitis,General Surgery
+5770,Elnaz,Ghasemi,3364437106,Female,56,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5771,Arash,Ghasemi,8332997021,Male,58,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5772,Reza,Moradi,6693976621,Male,13,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5773,Mohammad,Mousavi,7114657137,Male,4,Shiraz,Fars,Gastroenteritis,Internal Medicine
+5774,Sara,Hashemi,5939340253,Female,67,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5775,Amir,Ghasemi,2254255101,Male,61,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5776,Mohammad,Hosseini,9269503631,Male,41,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5777,Amir,Ahmadi,9507055101,Male,81,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5778,Sara,Hosseini,3585459625,Female,22,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5779,Arash,Karimi,2164038843,Male,61,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5780,Reza,Ghasemi,8702977273,Male,22,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5781,Maryam,Hashemi,3963026235,Female,51,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5782,Sepideh,Hosseini,7063313053,Female,74,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5783,Elnaz,Karimi,1133042031,Female,5,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5784,Hossein,Rezai,0937413380,Male,70,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5785,Mohammad,Mousavi,7816813643,Male,45,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5786,Mehdi,Karimi,6264871729,Male,89,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5787,Arash,Hashemi,6485823573,Male,39,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5788,Sepideh,Ghasemi,5042904832,Female,89,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5789,Reza,Ahmadi,1316700909,Male,50,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5790,Elnaz,Ahmadi,9072850866,Female,80,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5791,Zahra,Mousavi,7581155676,Female,27,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5792,Arash,Rezai,7507693252,Male,84,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5793,Zahra,Ghasemi,3813582124,Female,22,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5794,Arash,Ghasemi,6897929468,Male,84,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5795,Arash,Ghasemi,8798329294,Male,5,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5796,Maryam,Hashemi,8083903280,Female,35,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5797,Farhad,Ahmadi,8098410005,Male,54,Shiraz,Fars,Gastroenteritis,Internal Medicine
+5798,Amir,Mousavi,0510443206,Male,69,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5799,Arash,Karimi,6647256504,Male,31,Tehran,Tehran,Rhinoplasty (Elective),ENT / Plastic Surgery
+5800,Sepideh,Hashemi,5915715117,Female,21,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5801,Mina,Hosseini,4752831325,Female,4,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5802,Mehdi,Moradi,1720640971,Male,62,Shiraz,Fars,Acute Appendicitis,General Surgery
+5803,Sepideh,Ahmadi,1995256544,Female,88,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5804,Mehdi,Hosseini,6199219090,Male,28,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5805,Mohammad,Hosseini,2202412948,Male,68,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5806,Mohammad,Hashemi,9694942233,Male,87,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5807,Farhad,Karimi,2498752927,Male,71,Shiraz,Fars,Infertility Consultation,Gynecology/IVF
+5808,Sepideh,Hashemi,2679595335,Female,35,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5809,Farhad,Hosseini,9173021679,Male,55,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5810,Mohammad,Moradi,2311872761,Male,15,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5811,Reza,Mousavi,3808313651,Male,85,Tehran,Tehran,Rhinoplasty (Elective),ENT / Plastic Surgery
+5812,Narges,Ahmadi,1994627034,Female,72,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5813,Zahra,Ghasemi,3577632062,Female,54,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5814,Fatemeh,Karimi,1517430860,Female,19,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5815,Arash,Ahmadi,3323131401,Male,63,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5816,Reza,Rezai,6518431105,Male,54,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5817,Maryam,Karimi,7029742656,Female,65,Isfahan,Isfahan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5818,Fatemeh,Ahmadi,5122482497,Female,69,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5819,Mohammad,Ahmadi,7615963486,Male,79,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5820,Zahra,Mousavi,2632662478,Female,8,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5821,Ali,Ahmadi,8374428821,Male,6,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5822,Zahra,Mousavi,7961644891,Female,79,Shiraz,Fars,Infertility Consultation,Gynecology/IVF
+5823,Sara,Moradi,7621306211,Female,1,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5824,Mina,Hosseini,6462899311,Female,5,Tehran,Tehran,Acute Appendicitis,General Surgery
+5825,Farhad,Hashemi,8994372733,Male,20,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5826,Fatemeh,Hosseini,6148322773,Female,42,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5827,Farhad,Ahmadi,1990150251,Male,89,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5828,Ali,Hashemi,7656418091,Male,83,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5829,Mohammad,Karimi,1798200015,Male,19,Tehran,Tehran,Acute Appendicitis,General Surgery
+5830,Mohammad,Hosseini,5152137631,Male,14,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5831,Narges,Ahmadi,1540801098,Female,44,Isfahan,Isfahan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5832,Elnaz,Ghasemi,4438847109,Female,4,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5833,Fatemeh,Karimi,7641659160,Female,70,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5834,Fatemeh,Ghasemi,2007871092,Female,4,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5835,Mina,Ghasemi,0375962433,Female,49,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5836,Elnaz,Karimi,0727468901,Female,64,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5837,Narges,Hosseini,3067658787,Female,34,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5838,Hossein,Karimi,8105245574,Male,48,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5839,Sepideh,Moradi,5186557374,Female,70,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5840,Ali,Hashemi,0367261553,Male,60,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5841,Narges,Ahmadi,3285473096,Female,8,Tehran,Tehran,Acute Appendicitis,General Surgery
+5842,Mehdi,Moradi,7365294590,Male,42,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5843,Sepideh,Hosseini,7431782772,Female,83,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5844,Sara,Hosseini,4339222224,Female,10,Mashhad,Razavi Khorasan,Infertility Consultation,Gynecology/IVF
+5845,Hossein,Rezai,4807041215,Male,2,Tehran,Tehran,Acute Appendicitis,General Surgery
+5846,Maryam,Hosseini,3760093582,Female,3,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5847,Mina,Karimi,3099285471,Female,2,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5848,Sara,Ahmadi,3697644599,Female,43,Tehran,Tehran,Rhinoplasty (Elective),ENT / Plastic Surgery
+5849,Mehdi,Hashemi,3703117486,Male,52,Isfahan,Isfahan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5850,Amir,Mousavi,9561566451,Male,31,Isfahan,Isfahan,Kidney Stones (Renal Colic),Urology
+5851,Ali,Hashemi,5923228912,Male,18,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5852,Zahra,Rezai,1306895863,Female,25,Tehran,Tehran,Rhinoplasty (Elective),ENT / Plastic Surgery
+5853,Sara,Karimi,1779892128,Female,74,Shiraz,Fars,Gastroenteritis,Internal Medicine
+5854,Amir,Hosseini,9290361883,Male,65,Tehran,Tehran,Cataract Surgery,Ophthalmology
+5855,Reza,Karimi,1779345569,Male,51,Shiraz,Fars,Gastroenteritis,Internal Medicine
+5856,Farhad,Hashemi,2471340954,Male,56,Shiraz,Fars,Chest Pain / Suspected MI,Cardiology
+5857,Narges,Karimi,6214187468,Female,77,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5858,Elnaz,Hashemi,8381475708,Female,51,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5859,Elnaz,Hashemi,1838804511,Female,89,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5860,Arash,Mousavi,0320735291,Male,16,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5861,Mina,Karimi,7819572485,Female,90,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5862,Zahra,Rezai,4575098124,Female,28,Shiraz,Fars,Gastroenteritis,Internal Medicine
+5863,Sepideh,Hashemi,2326698525,Female,24,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5864,Mehdi,Moradi,4201713555,Male,63,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5865,Hossein,Moradi,7303732985,Male,68,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5866,Maryam,Karimi,6544025194,Female,43,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5867,Maryam,Rezai,2400798818,Female,28,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5868,Sara,Rezai,9551371313,Female,76,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5869,Sara,Ahmadi,5202650116,Female,59,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5870,Elnaz,Mousavi,9311096830,Female,56,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5871,Sara,Hashemi,4963632675,Female,33,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5872,Ali,Rezai,5893860748,Male,80,Mashhad,Razavi Khorasan,Infertility Consultation,Gynecology/IVF
+5873,Fatemeh,Karimi,1129883728,Female,82,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5874,Sara,Ahmadi,0218454058,Female,8,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5875,Sara,Moradi,6415343785,Female,77,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5876,Zahra,Mousavi,2372282999,Female,7,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5877,Farhad,Karimi,1899156275,Male,9,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5878,Mina,Rezai,9615804568,Female,6,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5879,Arash,Ahmadi,1462809324,Male,37,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5880,Mina,Ahmadi,3565909110,Female,68,Mashhad,Razavi Khorasan,Infertility Consultation,Gynecology/IVF
+5881,Zahra,Ghasemi,9336630733,Female,58,Isfahan,Isfahan,Type 2 Diabetes Follow-up,Endocrinology
+5882,Reza,Ghasemi,1040463177,Male,75,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5883,Farhad,Moradi,1536339903,Male,23,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5884,Arash,Rezai,3349662323,Male,60,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5885,Elnaz,Mousavi,1803276452,Female,65,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5886,Hossein,Karimi,8516263983,Male,62,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5887,Reza,Ghasemi,1058088688,Male,47,Shiraz,Fars,Acute Appendicitis,General Surgery
+5888,Arash,Hashemi,1941049222,Male,90,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5889,Sara,Karimi,7243793411,Female,73,Isfahan,Isfahan,Kidney Stones (Renal Colic),Urology
+5890,Zahra,Rezai,1561160059,Female,5,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5891,Narges,Ahmadi,3559079071,Female,66,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5892,Elnaz,Karimi,8157349265,Female,70,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5893,Ali,Rezai,1088428630,Male,76,Mashhad,Razavi Khorasan,Asthma / Respiratory Distress,Pulmonology
+5894,Sara,Moradi,8962722445,Female,55,Shiraz,Fars,Acute Appendicitis,General Surgery
+5895,Mohammad,Ghasemi,7994049702,Male,12,Shiraz,Fars,Cataract Surgery,Ophthalmology
+5896,Narges,Rezai,7686391779,Female,70,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5897,Narges,Rezai,8657186322,Female,78,Isfahan,Isfahan,Type 2 Diabetes Follow-up,Endocrinology
+5898,Mohammad,Moradi,3874036669,Male,48,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5899,Sepideh,Moradi,8949785366,Female,88,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5900,Farhad,Hashemi,6711587707,Male,56,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5901,Reza,Hosseini,5009912198,Male,10,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5902,Mehdi,Mousavi,1582633959,Male,31,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5903,Sepideh,Rezai,6091691406,Female,75,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5904,Ali,Rezai,0141592117,Male,62,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5905,Hossein,Karimi,5721571624,Male,27,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5906,Reza,Rezai,8169088577,Male,81,Tehran,Tehran,Cataract Surgery,Ophthalmology
+5907,Mohammad,Hashemi,5536845071,Male,33,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5908,Mina,Moradi,7397016022,Female,67,Tehran,Tehran,Rhinoplasty (Elective),ENT / Plastic Surgery
+5909,Narges,Hosseini,5757097450,Female,35,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5910,Fatemeh,Ahmadi,7557816811,Female,26,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5911,Narges,Rezai,3327515093,Female,55,Mashhad,Razavi Khorasan,Type 2 Diabetes Follow-up,Endocrinology
+5912,Zahra,Mousavi,5613704783,Female,87,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5913,Sepideh,Mousavi,9804863308,Female,7,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5914,Sara,Rezai,4784275576,Female,84,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5915,Maryam,Ahmadi,3228480747,Female,19,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5916,Reza,Ghasemi,6982669238,Male,61,Shiraz,Fars,Gastroenteritis,Internal Medicine
+5917,Arash,Mousavi,3370642931,Male,41,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5918,Sara,Hashemi,9128894138,Female,61,Shiraz,Fars,Infertility Consultation,Gynecology/IVF
+5919,Maryam,Karimi,8732391552,Female,42,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5920,Fatemeh,Moradi,2276319321,Female,88,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5921,Mohammad,Karimi,0117049409,Male,42,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5922,Maryam,Rezai,9801140135,Female,18,Tehran,Tehran,Cataract Surgery,Ophthalmology
+5923,Fatemeh,Hashemi,7255144020,Female,67,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5924,Sara,Moradi,2899350978,Female,45,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5925,Reza,Mousavi,6990403217,Male,78,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5926,Arash,Rezai,2562998618,Male,41,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5927,Zahra,Karimi,3061680977,Female,74,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5928,Zahra,Ahmadi,9033545799,Female,87,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5929,Mehdi,Rezai,3328553045,Male,80,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5930,Sara,Moradi,5712895587,Female,11,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5931,Narges,Hashemi,2971958833,Female,32,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5932,Maryam,Ahmadi,7413995298,Female,73,Isfahan,Isfahan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5933,Amir,Hosseini,7265059786,Male,61,Mashhad,Razavi Khorasan,Cataract Surgery,Ophthalmology
+5934,Amir,Rezai,2216381195,Male,51,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5935,Mina,Hashemi,2166536001,Female,44,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5936,Narges,Moradi,2151210537,Female,31,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5937,Elnaz,Mousavi,7947047995,Female,5,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5938,Farhad,Ahmadi,1189443163,Male,2,Isfahan,Isfahan,Infertility Consultation,Gynecology/IVF
+5939,Mina,Mousavi,9915963246,Female,47,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5940,Amir,Rezai,8648329035,Male,77,Mashhad,Razavi Khorasan,Kidney Stones (Renal Colic),Urology
+5941,Sepideh,Ahmadi,2875190776,Female,51,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5942,Mina,Rezai,4740654849,Female,54,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5943,Hossein,Ahmadi,7434939451,Male,61,Isfahan,Isfahan,Chest Pain / Suspected MI,Cardiology
+5944,Mohammad,Mousavi,1751170918,Male,74,Tehran,Tehran,Cataract Surgery,Ophthalmology
+5945,Mehdi,Ghasemi,3729298119,Male,43,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5946,Mina,Hashemi,2959323335,Female,63,Shiraz,Fars,Kidney Stones (Renal Colic),Urology
+5947,Arash,Karimi,6077824879,Male,76,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5948,Farhad,Ghasemi,6052619597,Male,4,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5949,Mina,Ghasemi,5700685582,Female,19,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5950,Mina,Moradi,7621919876,Female,60,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5951,Zahra,Ghasemi,6245947669,Female,83,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5952,Sepideh,Ghasemi,9913017807,Female,8,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5953,Sepideh,Ahmadi,1119476798,Female,41,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5954,Elnaz,Hashemi,1317576667,Female,87,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5955,Mina,Hashemi,9833799728,Female,55,Tehran,Tehran,Chest Pain / Suspected MI,Cardiology
+5956,Arash,Rezai,8728795601,Male,59,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5957,Sara,Ghasemi,4100646100,Female,22,Tehran,Tehran,Acute Appendicitis,General Surgery
+5958,Elnaz,Ghasemi,1547039434,Female,66,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5959,Hossein,Hashemi,6254120445,Male,14,Isfahan,Isfahan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5960,Reza,Hosseini,2803818248,Male,27,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5961,Sepideh,Hashemi,5471304500,Female,34,Shiraz,Fars,Infertility Consultation,Gynecology/IVF
+5962,Fatemeh,Karimi,8652399719,Female,61,Shiraz,Fars,Type 2 Diabetes Follow-up,Endocrinology
+5963,Narges,Rezai,1336247975,Female,75,Isfahan,Isfahan,Type 2 Diabetes Follow-up,Endocrinology
+5964,Reza,Hashemi,7400454595,Male,81,Shiraz,Fars,Infertility Consultation,Gynecology/IVF
+5965,Fatemeh,Moradi,4934986596,Female,57,Mashhad,Razavi Khorasan,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5966,Sara,Ghasemi,2481242882,Female,50,Shiraz,Fars,Rhinoplasty (Elective),ENT / Plastic Surgery
+5967,Ali,Mousavi,5321068380,Male,8,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5968,Sara,Moradi,6915616004,Female,47,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5969,Maryam,Moradi,1988581214,Female,1,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+5970,Mina,Karimi,0522721133,Female,48,Isfahan,Isfahan,Kidney Stones (Renal Colic),Urology
+5971,Fatemeh,Hosseini,5048517857,Female,86,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5972,Narges,Ghasemi,0402754638,Female,5,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5973,Hossein,Mousavi,7854718954,Male,39,Tehran,Tehran,Kidney Stones (Renal Colic),Urology
+5974,Fatemeh,Hosseini,0284700691,Female,16,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5975,Hossein,Hashemi,8262587261,Male,77,Tehran,Tehran,Asthma / Respiratory Distress,Pulmonology
+5976,Hossein,Hosseini,5856963202,Male,82,Mashhad,Razavi Khorasan,Hypertension Crisis,Internal Medicine
+5977,Zahra,Rezai,8109163742,Female,62,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5978,Hossein,Ghasemi,8693763482,Male,77,Isfahan,Isfahan,Pneumonia,Infectious Diseases
+5979,Farhad,Ahmadi,7058128421,Male,47,Tehran,Tehran,Gastroenteritis,Internal Medicine
+5980,Fatemeh,Karimi,8987072452,Female,24,Tehran,Tehran,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5981,Ali,Ghasemi,0657733776,Male,34,Mashhad,Razavi Khorasan,Pneumonia,Infectious Diseases
+5982,Elnaz,Hashemi,1835743072,Female,33,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5983,Zahra,Hosseini,8164176818,Female,36,Shiraz,Fars,Pneumonia,Infectious Diseases
+5984,Arash,Karimi,4118522403,Male,58,Tehran,Tehran,Type 2 Diabetes Follow-up,Endocrinology
+5985,Farhad,Moradi,6322190334,Male,17,Tehran,Tehran,Infertility Consultation,Gynecology/IVF
+5986,Hossein,Ghasemi,8039447364,Male,32,Shiraz,Fars,Hypertension Crisis,Internal Medicine
+5987,Fatemeh,Moradi,5116448738,Female,41,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5988,Mehdi,Rezai,0877402191,Male,39,Mashhad,Razavi Khorasan,Acute Appendicitis,General Surgery
+5989,Hossein,Ahmadi,1608748979,Male,74,Isfahan,Isfahan,Asthma / Respiratory Distress,Pulmonology
+5990,Farhad,Moradi,1658935101,Male,43,Isfahan,Isfahan,Cataract Surgery,Ophthalmology
+5991,Arash,Hashemi,2053837624,Male,86,Isfahan,Isfahan,Kidney Stones (Renal Colic),Urology
+5992,Sepideh,Ghasemi,6408424902,Female,45,Isfahan,Isfahan,Gastroenteritis,Internal Medicine
+5993,Sepideh,Rezai,5278016558,Female,70,Isfahan,Isfahan,Hypertension Crisis,Internal Medicine
+5994,Maryam,Karimi,3077428369,Female,65,Mashhad,Razavi Khorasan,Chest Pain / Suspected MI,Cardiology
+5995,Fatemeh,Hosseini,4076548159,Female,66,Tehran,Tehran,Hypertension Crisis,Internal Medicine
+5996,Mina,Ahmadi,2080838024,Female,5,Shiraz,Fars,Road Traffic Accident (Trauma),Emergency/Orthopedics
+5997,Farhad,Karimi,7329710768,Male,20,Isfahan,Isfahan,Rhinoplasty (Elective),ENT / Plastic Surgery
+5998,Sepideh,Ahmadi,5026323693,Female,37,Mashhad,Razavi Khorasan,Gastroenteritis,Internal Medicine
+5999,Farhad,Karimi,0709474555,Male,43,Isfahan,Isfahan,Acute Appendicitis,General Surgery
+6000,Amir,Karimi,5989549687,Male,77,Mashhad,Razavi Khorasan,Rhinoplasty (Elective),ENT / Plastic Surgery

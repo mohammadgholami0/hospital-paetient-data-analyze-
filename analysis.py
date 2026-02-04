@@ -53,3 +53,56 @@ plt.show()
 print("\nAGE GROUP BY DEPARTMENT:")
 age_dept = pd.crosstab(df["department"], df["age_band"])
 print(age_dept)
+age_disease = pd.crosstab(df["age_band"], df["visit_reason"])
+print(age_disease)
+age_disease_percent = pd.crosstab(df["age_band"], df["visit_reason"], normalize="index") * 100
+print(age_disease_percent)
+top_by_age = age_disease.idxmax(axis=1)
+print("Most common disease in each age group:\n", top_by_age)
+# Get the count of the most common disease for each age band
+top_counts = age_disease.max(axis=1)
+
+# Combine names and counts into one table
+visual_df = pd.DataFrame({
+    "Most_Common_Disease": top_by_age,
+    "Patient_Count": top_counts
+})
+
+print("\nTable for visualization:\n", visual_df)
+
+
+plt.figure(figsize=(8,5))
+
+plt.bar(visual_df.index.astype(str), visual_df["Patient_Count"])
+
+plt.title("Most Common Disease in Each Age Group")
+plt.xlabel("Age Group")
+plt.ylabel("Number of Patients")
+
+for i, (disease, count) in enumerate(zip(visual_df["Most_Common_Disease"], visual_df["Patient_Count"])):
+    plt.text(i, count + 1, disease, ha="center", fontsize=9)
+
+plt.tight_layout()
+plt.show()
+gender_disease = pd.crosstab(df["visit_reason"], df["gender"])
+
+print("\nDISEASE BY GENDER (COUNTS):")
+print(gender_disease)
+gender_disease_percent = pd.crosstab(
+    df["visit_reason"], 
+    df["gender"], 
+    normalize="index"
+) * 100
+
+print("\nDISEASE BY GENDER (PERCENTAGES):")
+print(gender_disease_percent)
+gender_disease_percent.plot(kind="bar", stacked=True, figsize=(12,6))
+
+plt.title("Gender Distribution by Disease")
+plt.xlabel("Visit Reason")
+plt.ylabel("Percentage")
+plt.xticks(rotation=45, ha="right")
+plt.legend(title="Gender")
+plt.tight_layout()
+plt.show()
+

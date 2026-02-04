@@ -1,4 +1,4 @@
- Hospital Patient Data Analysis Portfolio Project
+ ##Hospital Patient Data Analysis Portfolio Project
 
 ## Project Overview
 This project is an exploratory data analysis of a simulated hospital patient dataset from Iran. It was created as part of my personal learning journey in data analytics and Python programming. The dataset contains 1,000 patient records with information such as age, gender, city, department, and visit reason.
@@ -34,7 +34,7 @@ This means the dataset was reliable and ready for analysis.
 
 ### Top 10 Cities by Number of Patients
 
-![Top 10 Cities](image/top_10_cities.png)
+![Top 10 Cities](top_10_cities.png)
 
 **Insight**
 
@@ -51,7 +51,7 @@ This indicates that hospital demand is strongly concentrated in large urban cent
 
 ### Top 10 Visit Reasons
 
-![Top 10 Visit Reasons](image/top_10_visit_reasons.png)
+![Top 10 Visit Reasons](top_10_visit_reasons.png)
 
 **Insight**
 
@@ -74,7 +74,7 @@ This shows a mix of chronic diseases, emergencies, and elective treatments. It h
 
 ### Patient Distribution by Age Group
 
-![Patient Distribution by Age](image/patient_distribution_by_age.png)
+![Patient Distribution by Age](patient_distribution_by_age.png)
 
 **Insight**
 

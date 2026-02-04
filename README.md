@@ -107,7 +107,7 @@ The dataset shows an almost equal gender distribution, with a very small majorit
 
 ### Most Common Disease in Each Age Group
 
-![Most Common Disease by Age Group] (most_common_disease_in_each_group.png)
+![Most Common Disease by Age Group](most_common_disease_in_each_group.png)
 
 **Insight**
 

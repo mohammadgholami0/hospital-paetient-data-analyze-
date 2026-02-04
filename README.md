@@ -1,14 +1,8 @@
 Hospital Patient Data Analysis Portfolio Project
 Project Overview
-
-This project is an exploratory data analysis of a simulated hospital patient dataset from Iran. It was created as part of my personal learning journey in data analytics and Python programming.
-
-The dataset contains 1,000 patient records with information such as age, gender, city, department, and visit reason. Using Python and data visualization, I analyzed the data to understand patterns in hospital usage and patient demographics.
-
-The goal of this project was to practice real-world data analysis skills and to build a portfolio project that demonstrates my ability to work with structured datasets.
+This project is an exploratory data analysis of a simulated hospital patient dataset from Iran. It was created as part of my personal learning journey in data analytics and Python programming. The dataset contains 1,000 patient records with information such as age, gender, city, department, and visit reason. Using Python and data visualization, I analyzed the data to understand patterns in hospital usage and patient demographics. The goal of this project was to practice real-world data analysis skills and to build a portfolio project that demonstrates my ability to work with structured datasets.
 
 Project Goals
-
 The main questions I tried to answer in this analysis were:
 
 Which cities send the most patients to the hospital?
@@ -19,25 +13,18 @@ Which age groups use hospital services the most?
 
 Are most patients male or female?
 
-
 Data Quality Check
-
 Before starting the analysis, I checked the dataset for quality issues.
 
 Missing values: 0
 
 Duplicate rows: 0
 
-All columns were clean and correctly formatted
+All columns were clean and correctly formatted This means the dataset was reliable and ready for analysis.
 
-This means the dataset was reliable and ready for analysis.
-
- Analysis and Results
+Analysis and Results
 Top 10 Cities by Number of Patients
-
-Insight
-
-The analysis shows that most patients come from four major cities:
+Insight The analysis shows that most patients come from four major cities:
 
 Isfahan – 264 patients
 
@@ -45,15 +32,10 @@ Mashhad – 261 patients
 
 Tehran – 240 patients
 
-Shiraz – 235 patients
-
-This indicates that hospital demand is strongly concentrated in large urban centers. From a practical point of view, this suggests that hospitals in these cities require more medical staff, equipment, and resources to manage higher patient volumes.
+Shiraz – 235 patients This indicates that hospital demand is strongly concentrated in large urban centers. From a practical point of view, this suggests that hospitals in these cities require more medical staff, equipment, and resources to manage higher patient volumes.
 
 Top 10 Visit Reasons
-
-Insight
-
-The most common reasons for hospital visits were:
+Insight The most common reasons for hospital visits were:
 
 Hypertension Crisis
 
@@ -73,15 +55,10 @@ Infertility Consultation
 
 Acute Appendicitis
 
-Pneumonia
-
-This shows a mix of chronic diseases, emergencies, and elective treatments. It highlights the importance of having strong emergency departments as well as specialized care units for cardiovascular and respiratory conditions.
+Pneumonia This shows a mix of chronic diseases, emergencies, and elective treatments. It highlights the importance of having strong emergency departments as well as specialized care units for cardiovascular and respiratory conditions.
 
 Patient Distribution by Age Group
-
-Insight
-
-The age group analysis revealed the following distribution:
+Insight The age group analysis revealed the following distribution:
 
 65+ years – 276 patients
 
@@ -91,22 +68,14 @@ The age group analysis revealed the following distribution:
 
 50–64 years – 180 patients
 
-35–49 years – 167 patients
-
-The largest group of patients belongs to the elderly (65+), showing that older people rely most on hospital services. This suggests that hospitals need to focus strongly on geriatric care and chronic disease management.
+35–49 years – 167 patients The largest group of patients belongs to the elderly (65+), showing that older people rely most on hospital services. This suggests that hospitals need to focus strongly on geriatric care and chronic disease management.
 
 Gender Distribution
+Female patients: 506 Male patients: 494
 
-Female patients: 506
-
-Male patients: 494
-
-Insight
-
-The dataset shows an almost equal gender distribution, with a very small majority of female patients. This means hospital services are used similarly by both genders.
+Insight The dataset shows an almost equal gender distribution, with a very small majority of female patients. This means hospital services are used similarly by both genders.
 
 Overall Conclusions
-
 From this project, I learned that:
 
 Most hospital patients come from a few large cities.

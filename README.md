@@ -34,7 +34,7 @@ This means the dataset was reliable and ready for analysis.
 
 ### Top 10 Cities by Number of Patients
 
-![Top 10 Cities](images/top_10_cities.png)
+![Top 10 Cities](image/top_10_cities.png)
 
 **Insight**
 
@@ -51,7 +51,7 @@ This indicates that hospital demand is strongly concentrated in large urban cent
 
 ### Top 10 Visit Reasons
 
-![Top 10 Visit Reasons](images/top_10_visit_reasons.png)
+![Top 10 Visit Reasons](image/top_10_visit_reasons.png)
 
 **Insight**
 
@@ -74,7 +74,7 @@ This shows a mix of chronic diseases, emergencies, and elective treatments. It h
 
 ### Patient Distribution by Age Group
 
-![Patient Distribution by Age](images/patient_distribution_by_age.png)
+![Patient Distribution by Age](image/patient_distribution_by_age.png)
 
 **Insight**
 
